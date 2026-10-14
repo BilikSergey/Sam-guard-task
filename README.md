@@ -7,7 +7,7 @@
 - Clone the project 
 
 ```bash
-git clone your-repository-url
+git clone https://github.com/BilikSergey/Sam-guard-task.git
 ```
 
 -Install dependencies:
